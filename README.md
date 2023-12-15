@@ -1,4 +1,4 @@
-<p aling="center">
+<p align="center">
   <strong>Projeto em C# Desenvolvido Com a Finalidade de Ser um Sistema de Gerenciamento, Integrei Com Um Banco de Dados MySQL</strong>
 </p>
 
