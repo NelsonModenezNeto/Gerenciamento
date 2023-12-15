@@ -2,7 +2,7 @@
   <strong>Projeto em C# Desenvolvido Com a Finalidade de Ser um Sistema de Gerenciamento, Integrei Com Um Banco de Dados MySQL</strong>
 </p>
 
-<br><br>
+<br>
 
 <strong>Login</strong>
 ![loginge](https://github.com/NelsonModenezNeto/Gerenciamento/assets/99834482/15779de5-3f3f-43f5-9222-ec0171ad2579)
